@@ -12,7 +12,7 @@ const CategoryCtrl = {
             if (!name)
                 return res.status(400).json({
                     status: 400,
-                    msg: "name of category is empty",
+                    msg: "name of category is empty!",
                 });
 
 
