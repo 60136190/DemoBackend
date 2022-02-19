@@ -90,6 +90,7 @@ const CategoryCtrl = {
         }
     },
 
+    
     // delete category
     async DeleteCategory(req, res) {
         try {
